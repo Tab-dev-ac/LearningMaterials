@@ -25,3 +25,8 @@ Shortcuts:
 `o` option settings
 `H` help page
 `Escape` + `E` turn the page into vim text (so you can copy and paste, etc.)
+`q` quit
+```
+vim ~/.w3m/keymap
+```
+to set custom key shortcuts
