@@ -16,4 +16,5 @@ use `git config credential.helper store`, then push the repo once, it will recor
 
 To reset, simply use `git config --unset credential.helper`, to reset all repo use `git config --unset --globally credential.helper` or `git config --system --unset -credential.helper`
 
- 
+move all files in a directory
+`mv ~/Directory1/* ~/Directory2/`

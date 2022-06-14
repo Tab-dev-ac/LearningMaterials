@@ -16,6 +16,8 @@ Move to a line `[number]` + `G`
 
 Move to the first line `gg`
 
+`Ctrl` + `G` show the current location in file
+
 Go back to where you came from `CTRL` + `O`
 
 Go forward after you go back `CTRL` + `I`
@@ -84,6 +86,7 @@ visual Mode - select `v`
 
 `p` paste
 
+`V` select a line
 
 
 ## Search
