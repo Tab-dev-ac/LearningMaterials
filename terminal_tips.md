@@ -30,3 +30,4 @@ Shortcuts:
 vim ~/.w3m/keymap
 ```
 to set custom key shortcuts
+
