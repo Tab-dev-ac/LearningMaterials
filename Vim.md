@@ -178,4 +178,4 @@ Display your location in the document `CTRL` + `G`
 `:set nocp` set no compatible mode
 
 `:!ls` or `:!dir` list files in current directory
-
+ 
