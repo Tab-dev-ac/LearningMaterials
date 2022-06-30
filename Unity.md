@@ -17,3 +17,4 @@ Chapter and Contents
 GetCompnent<Collider2D>().enabled = false;
 ```
 35:GUI upgrade
+
